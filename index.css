@@ -9,13 +9,11 @@
     height: 100vh;
     justify-content: center;
     align-items: center;
-    border: 2px solid black;
 }
 
 .content{
     width: 70%;
     height: 90vh;
-    border: 2px solid red;
     padding: 20px;
     display: flex;
 }
@@ -24,14 +22,14 @@
     padding: 15px;
     width: 45%;
     height: 64vh;
-    border: 2px solid yellow;
+    border: 2px solid #2b284e;
     border-radius: 15px;
     margin-top: 55px;
 }
 
 .name{
     width: 112%;
-    border: 2px solid green;
+    border: 2px solid #5746ea;
     height: 45vh;
     border-radius: 20px;
     background-color: #5746ea;
@@ -43,7 +41,7 @@
     width: 30%;
     margin-top: 10px;
     margin-left: 10px;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     border-radius: 50%;
     margin-left: 25px;
 }
@@ -56,7 +54,7 @@
 .contenttwo{
     width:75%;
     height: 70vh;
-    border: 1px solid aqua;
+    /* border: 1px solid #2b284e; */
     margin-left: 18px;
     margin-top: 43px;
     display: grid;
@@ -68,18 +66,20 @@
     margin-top: 10px;
     width: 70%;
     height: 33vh;
-    border: 1px solid green;
+    border: 1px solid #2b284e;
     border-radius: 10px;
     background-color: #ff8b64;
 }
 
 .work{
-    margin-top: -1.5rem;
-    width: 98.2%;
-    height: 27vh;
-    border: 2px solid black;
+    margin-top: -2rem;
+    width: 100%;
+    margin-left: -1.2px;
+    height: 28vh;
+    /* border: 2px solid black; */
     border-radius: 10px;
     background-color: #1d204b;
+    padding: 2px;
 }
 
 .ellipsis1{
@@ -91,18 +91,20 @@
     margin-top: 10px;
     width: 70%;
     height: 33vh;
-    border: 1px solid green;
+    border: 1px solid #2b284e;
     border-radius: 10px;
     background-color: #56c2e6;
 }
 
 .play{
-    margin-top: -1.5rem;
-    width: 98.2%;
-    height: 27vh;
-    border: 2px solid black;
+    margin-top: -2rem;
+    width: 100%;
+    margin-left: -1.2px;
+    height: 28vh;
+    /* border: 2px solid black; */
     border-radius: 10px;
     background-color: #1d204b;
+    padding: 2px;
 }
 
 .contenttwoc{
@@ -110,18 +112,20 @@
     margin-top: 10px;
     width: 70%;
     height: 33vh;
-    border: 1px solid green;
+    border: 1px solid #2b284e;
     border-radius: 10px;
     background-color: #ff5e7d;
 }
 
 .study{
-    margin-top: -1.5rem;
-    width: 98.2%;
-    height: 27vh;
-    border: 2px solid black;
+    margin-top: -1.9rem;
+    width: 100%;
+    margin-left: -1.2px;
+    height: 28vh;
+    /* border: 2px solid black; */
     border-radius: 10px;
     background-color: #1d204b;
+    padding: 2px;
 }
 
 .contenttwod{
@@ -129,18 +133,20 @@
     margin-top: 10px;
     width: 70%;
     height: 33vh;
-    border: 1px solid green;
+    border: 1px solid #2b284e;
     border-radius: 10px;
     background-color: #4bcf83;
 }
 
 .exercise{
-    margin-top: -0.3rem;
-    width: 98.2%;
-    height: 27vh;
-    border: 2px solid black;
+    margin-top: -0.7rem;
+    width: 100%;
+    margin-left: -1.2px;
+    height: 28vh;
+    /* border: 2px solid black; */
     border-radius: 10px;
     background-color: #1d204b;
+    padding: 2px;
 }
 
 .contenttwoe{
@@ -148,18 +154,20 @@
     margin-top: 10px;
     width: 70%;
     height: 33vh;
-    border: 1px solid green;
+    border: 1px solid #2b284e;
     border-radius: 10px;
     background-color: #7235d1;
 }
 
 .social{
-    margin-top: -2.7rem;
-    width: 98.2%;
-    height: 27vh;
-    border: 2px solid black;
+    margin-top: -3.2rem;
+    width: 100%;
+    margin-left: -1.2px;
+    height: 28vh;
+    /* border: 2px solid black; */
     border-radius: 10px;
     background-color: #1d204b;
+    padding: 2px;
 }
 
 .contenttwof{
@@ -167,18 +175,20 @@
     margin-top: 10px;
     width: 70%;
     height: 33vh;
-    border: 1px solid green;
+    border: 1px solid #2b284e;
     border-radius: 10px;
     background-color: #f1c75b;
 }
 
 .selfcare{
-    margin-top: -1.5rem;
-    width: 98.2%;
-    height: 27vh;
-    border: 2px solid black;
+    margin-top: -1.9rem;
+    width: 100%;
+    margin-left: -1.2px;
+    height: 28vh;
+    /* border: 2px solid black; */
     border-radius: 10px;
     background-color: #1d204b;
+    padding: 2px;
 }
 
 
