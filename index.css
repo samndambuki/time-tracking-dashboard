@@ -22,15 +22,15 @@
 
 .content1{
     padding: 15px;
-    width: 25%;
-    height: 63vh;
+    width: 45%;
+    height: 64vh;
     border: 2px solid yellow;
     border-radius: 15px;
     margin-top: 55px;
 }
 
 .name{
-    width: 110%;
+    width: 112%;
     border: 2px solid green;
     height: 45vh;
     border-radius: 20px;
@@ -40,7 +40,7 @@
 }
 
 .name img{
-    width: 70%;
+    width: 30%;
     margin-top: 10px;
     margin-left: 10px;
     border: 2px solid white;
