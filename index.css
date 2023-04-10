@@ -70,14 +70,20 @@
     height: 33vh;
     border: 1px solid green;
     border-radius: 10px;
+    background-color: #ff8b64;
 }
 
 .work{
-    margin-top: 1.4rem;
+    margin-top: -1.5rem;
     width: 98.2%;
     height: 27vh;
     border: 2px solid black;
     border-radius: 10px;
+    background-color: #1d204b;
+}
+
+.ellipsis1{
+    margin-top: -1.6rem;
 }
 
 .contenttwob{
@@ -87,14 +93,16 @@
     height: 33vh;
     border: 1px solid green;
     border-radius: 10px;
+    background-color: #56c2e6;
 }
 
 .play{
-    margin-top: 1.4rem;
+    margin-top: -1.5rem;
     width: 98.2%;
     height: 27vh;
     border: 2px solid black;
     border-radius: 10px;
+    background-color: #1d204b;
 }
 
 .contenttwoc{
@@ -104,14 +112,16 @@
     height: 33vh;
     border: 1px solid green;
     border-radius: 10px;
+    background-color: #ff5e7d;
 }
 
 .study{
-    margin-top: 1.4rem;
+    margin-top: -1.5rem;
     width: 98.2%;
     height: 27vh;
     border: 2px solid black;
     border-radius: 10px;
+    background-color: #1d204b;
 }
 
 .contenttwod{
@@ -121,14 +131,16 @@
     height: 33vh;
     border: 1px solid green;
     border-radius: 10px;
+    background-color: #4bcf83;
 }
 
 .exercise{
-    margin-top: 1.4rem;
+    margin-top: -0.3rem;
     width: 98.2%;
     height: 27vh;
     border: 2px solid black;
     border-radius: 10px;
+    background-color: #1d204b;
 }
 
 .contenttwoe{
@@ -138,14 +150,16 @@
     height: 33vh;
     border: 1px solid green;
     border-radius: 10px;
+    background-color: #7235d1;
 }
 
 .social{
-    margin-top: 1.4rem;
+    margin-top: -2.7rem;
     width: 98.2%;
     height: 27vh;
     border: 2px solid black;
     border-radius: 10px;
+    background-color: #1d204b;
 }
 
 .contenttwof{
@@ -155,14 +169,16 @@
     height: 33vh;
     border: 1px solid green;
     border-radius: 10px;
+    background-color: #f1c75b;
 }
 
 .selfcare{
-    margin-top: 1.4rem;
+    margin-top: -1.5rem;
     width: 98.2%;
     height: 27vh;
     border: 2px solid black;
     border-radius: 10px;
+    background-color: #1d204b;
 }
 
 
