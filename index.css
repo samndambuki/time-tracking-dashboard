@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    background-color: rgba(13,19,35,255);
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+}
+
+.content{
+    width: 70%;
+    height: 90vh;
+    border: 2px solid red;
+    padding: 20px;
+    display: flex;
+}
+
+.content1{
+    padding: 15px;
+    width: 25%;
+    height: 63vh;
+    border: 2px solid yellow;
+    border-radius: 15px;
+    margin-top: 55px;
+}
+
+.name{
+    width: 110%;
+    border: 2px solid green;
+    height: 45vh;
+    border-radius: 20px;
+    background-color: #5746ea;
+    margin-left: -1rem;
+    margin-top: -1rem;
+}
+
+.name img{
+    width: 70%;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 2px solid white;
+    border-radius: 50%;
+    margin-left: 25px;
+}
+
+.schedule {
+    margin-left: 18px;
+    margin-top: 7rem;
+}
+
+.contenttwo{
+    width:75%;
+    height: 70vh;
+    border: 1px solid aqua;
+    margin-left: 18px;
+    margin-top: 43px;
+    display: grid;
+    grid-template-columns: repeat(3,18rem); 
+}
+
+.contenttwoa{
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 70%;
+    height: 33vh;
+    border: 1px solid green;
+    border-radius: 10px;
+}
+
+.work{
+    margin-top: 1.4rem;
+    width: 98.2%;
+    height: 27vh;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.contenttwob{
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 70%;
+    height: 33vh;
+    border: 1px solid green;
+    border-radius: 10px;
+}
+
+.play{
+    margin-top: 1.4rem;
+    width: 98.2%;
+    height: 27vh;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.contenttwoc{
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 70%;
+    height: 33vh;
+    border: 1px solid green;
+    border-radius: 10px;
+}
+
+.study{
+    margin-top: 1.4rem;
+    width: 98.2%;
+    height: 27vh;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.contenttwod{
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 70%;
+    height: 33vh;
+    border: 1px solid green;
+    border-radius: 10px;
+}
+
+.exercise{
+    margin-top: 1.4rem;
+    width: 98.2%;
+    height: 27vh;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.contenttwoe{
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 70%;
+    height: 33vh;
+    border: 1px solid green;
+    border-radius: 10px;
+}
+
+.social{
+    margin-top: 1.4rem;
+    width: 98.2%;
+    height: 27vh;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.contenttwof{
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 70%;
+    height: 33vh;
+    border: 1px solid green;
+    border-radius: 10px;
+}
+
+.selfcare{
+    margin-top: 1.4rem;
+    width: 98.2%;
+    height: 27vh;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
