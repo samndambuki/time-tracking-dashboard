@@ -69,6 +69,8 @@
     border: 1px solid #2b284e;
     border-radius: 10px;
     background-color: #ff8b64;
+    position: relative;
+    overflow: hidden;
 }
 
 .work{
@@ -80,7 +82,9 @@
     border-radius: 10px;
     background-color: #1d204b;
     padding: 2px;
+    position: absolute;
 }
+
 
 .ellipsis1{
     margin-top: -1.6rem;
@@ -94,6 +98,7 @@
     border: 1px solid #2b284e;
     border-radius: 10px;
     background-color: #56c2e6;
+    position: relative;
 }
 
 .play{
@@ -105,6 +110,7 @@
     border-radius: 10px;
     background-color: #1d204b;
     padding: 2px;
+    position: absolute;
 }
 
 .contenttwoc{
@@ -115,6 +121,7 @@
     border: 1px solid #2b284e;
     border-radius: 10px;
     background-color: #ff5e7d;
+    position: relative;
 }
 
 .study{
@@ -126,6 +133,7 @@
     border-radius: 10px;
     background-color: #1d204b;
     padding: 2px;
+    position: absolute;
 }
 
 .contenttwod{
@@ -136,6 +144,7 @@
     border: 1px solid #2b284e;
     border-radius: 10px;
     background-color: #4bcf83;
+    position: relative;
 }
 
 .exercise{
@@ -147,6 +156,7 @@
     border-radius: 10px;
     background-color: #1d204b;
     padding: 2px;
+    position: absolute;
 }
 
 .contenttwoe{
@@ -157,6 +167,7 @@
     border: 1px solid #2b284e;
     border-radius: 10px;
     background-color: #7235d1;
+    position: relative;
 }
 
 .social{
@@ -168,6 +179,7 @@
     border-radius: 10px;
     background-color: #1d204b;
     padding: 2px;
+    position: absolute;
 }
 
 .contenttwof{
@@ -178,6 +190,7 @@
     border: 1px solid #2b284e;
     border-radius: 10px;
     background-color: #f1c75b;
+    position: relative;
 }
 
 .selfcare{
@@ -189,6 +202,7 @@
     border-radius: 10px;
     background-color: #1d204b;
     padding: 2px;
+    position: absolute;
 }
 
 
